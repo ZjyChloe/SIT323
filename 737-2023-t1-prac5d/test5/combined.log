@@ -1,0 +1,6 @@
+{"level":"info","message":"Parameters 6 and NaN received for addition","service":"user-service"}
+{"level":"error","message":"n2 is incorrectly defined","service":"user-service"}
+{"level":"info","message":"Parameters 6 and 12 received for addition","service":"user-service"}
+{"level":"info","message":"Parameters 6 and NaN received for addition","service":"user-service"}
+{"level":"error","message":"n2 is incorrectly defined","service":"user-service"}
+{"level":"info","message":"Parameters 6 and 6 received for addition","service":"user-service"}
